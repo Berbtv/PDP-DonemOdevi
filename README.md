@@ -12,16 +12,16 @@ Bu proje, kullanıcının girdiği GitHub repo linkindeki klasörü klonlayarak,
 
 3. **Sınıf Analizi**: Her bir .java dosyasını tarayarak içerisindeki sınıfları tespit eder ve bu sınıflar hakkında aşağıdaki bilgileri çıkarır:
 
-# **Javadoc satır sayısı**
+- **Javadoc satır sayısı**
 
-# **Yorum satır sayısı**
+- **Yorum satır sayısı**
 
-# **Kod satır sayısı**
+- **Kod satır sayısı**
 
-# **LOC (Lines of Code)**
+- **LOC (Lines of Code)**
 
-# **Fonksiyon sayısı**
+- **Fonksiyon sayısı**
 
-# **Yorum sapma yüzdesi**
+- **Yorum sapma yüzdesi**
 
 4. **Sonuçları Görüntüleme**: Analiz sonuçları kullanıcıya konsol üzerinde gösterilir.
